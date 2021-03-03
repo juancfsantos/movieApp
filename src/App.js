@@ -1,4 +1,4 @@
-import React, { Component, useEffect, useState } from 'react'
+import React, { Component } from 'react'
 import Title from './components/Title'
 import './App.css';
 import MovieNP from './components/MovieNowPlaying'
