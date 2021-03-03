@@ -1,6 +1,6 @@
 Movie App Project
 
-It's necessary to install NPM, React and Jquery.
+It's necessary to install NPM, React, MaterialUI and Jquery.
 
 To run the App use:
 
